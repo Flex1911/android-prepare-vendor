@@ -15,6 +15,7 @@ declare -ra SUPPORTED_DEVICES=(
   "crosshatch"    # Pixel 3 XL
   "sargo"	  # Pixel 3a
   "bonito"	  # Pixel 3a XL
+  "coral"	  # Pixel 4 XL
 )
 
 # URLs to download factory images from
